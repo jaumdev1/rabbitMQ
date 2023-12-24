@@ -1,0 +1,17 @@
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/bin/Debug/net8.0/rabbitmqConsumer
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/bin/Debug/net8.0/rabbitmqConsumer.deps.json
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/bin/Debug/net8.0/rabbitmqConsumer.runtimeconfig.json
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/bin/Debug/net8.0/rabbitmqConsumer.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/bin/Debug/net8.0/rabbitmqConsumer.pdb
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.csproj.AssemblyReference.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.AssemblyInfoInputs.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.AssemblyInfo.cs
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.csproj.CoreCompileInputs.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.csproj.CopyComplete
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/refint/rabbitmqConsumer.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.pdb
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/rabbitmqConsumer.genruntimeconfig.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmqConsumer/obj/Debug/net8.0/ref/rabbitmqConsumer.dll

@@ -1,0 +1,17 @@
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/bin/Debug/net8.0/rabbitmq
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/bin/Debug/net8.0/rabbitmq.deps.json
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/bin/Debug/net8.0/rabbitmq.runtimeconfig.json
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/bin/Debug/net8.0/rabbitmq.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/bin/Debug/net8.0/rabbitmq.pdb
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.csproj.AssemblyReference.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.GeneratedMSBuildEditorConfig.editorconfig
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.AssemblyInfoInputs.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.AssemblyInfo.cs
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.csproj.CoreCompileInputs.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.csproj.CopyComplete
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/refint/rabbitmq.dll
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.pdb
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/rabbitmq.genruntimeconfig.cache
+/home/jaum/RiderProjects/rabbitmq/rabbitmq/obj/Debug/net8.0/ref/rabbitmq.dll
